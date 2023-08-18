@@ -1,0 +1,23 @@
+This is a git demo
+
+git init 
+	Initializes folder as a git repo
+
+git remote add origin [URL]
+	Add a remote repository
+	ex: git remote add origin https://github.com/elb-pty-ltd/elb.git
+
+git pull origin master
+	Gets the latest code from remote repository
+
+git status
+	Check status and checks what are the edited and added files3
+
+git stash save 'samplestash'
+	Save a stash with a given name 'samplestash'
+
+git stash list
+	Gets list of saved stash
+
+git stash apply stash@{0}
+	Apply stash using the index
