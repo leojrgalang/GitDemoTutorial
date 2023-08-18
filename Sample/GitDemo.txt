@@ -21,3 +21,6 @@ git stash list
 
 git stash apply stash@{0}
 	Apply stash using the index
+
+
+updated file
