@@ -3,6 +3,8 @@ This is a git demo
 git init 
 	Initializes folder as a git repo
 
+git clone https://github.com/elb-pty-ltd/elb.git
+
 git remote add origin [URL]
 	Add a remote repository
 	ex: git remote add origin https://github.com/elb-pty-ltd/elb.git
