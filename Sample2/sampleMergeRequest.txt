@@ -1,3 +1,10 @@
 Merge request
 sample
 git commit -a
+<<<<<<< Updated upstream
+tortoise git
+=======
+
+
+this is a sample stash
+>>>>>>> Stashed changes
