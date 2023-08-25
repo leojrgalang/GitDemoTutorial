@@ -8,3 +8,5 @@ tortoise git
 
 this is a sample stash
 >>>>>>> Stashed changes
+
+-sample
